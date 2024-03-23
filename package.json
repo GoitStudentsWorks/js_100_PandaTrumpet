@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/WebSpidersNew/",
+    "build": "vite build --base=/js_100_PandaTrumpet/",
     "preview": "vite preview"
   },
   "devDependencies": {
